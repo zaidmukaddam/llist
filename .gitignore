@@ -1,0 +1,9 @@
+.env
+.next/
+.swc/
+.vercel
+build/
+coverage/
+next-env.d.ts
+node_modules/
+out/
